@@ -2,6 +2,7 @@
 This is a My_SQL project done by me - Library Management System
 
 FIle --> Project.sql & Project.docx
+Screenshots in the file --> Project.docx
 
 Library Management System - 
 
