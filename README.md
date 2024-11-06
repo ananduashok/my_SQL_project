@@ -1,6 +1,8 @@
 # my_SQL_project
 This is a My_SQL project done by me - Library Management System
 
+FIle --> Project.sql & Project.docx
+
 Library Management System - 
 
 It keeps track of all information about books in the library, their cost, status and total number of books available in the library. 
